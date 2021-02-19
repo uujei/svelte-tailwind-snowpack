@@ -9,6 +9,8 @@ Create a new project with:
 
 ```bash
 npx create-snowpack-app dir-name --template svelte-tailwind-snowpack
+cd dir-name
+npm i -D svelte-spa-router
 ```
 
 Uses `svelte-preprocess`.
